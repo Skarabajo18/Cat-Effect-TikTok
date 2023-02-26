@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "dacffef7-d06e-5453-38c6-b73d0a3b03a8",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Material_diffuse",
+    "expandInPanel": false,
+    "objGuid": "Guid(5481066987314721002, 15676372118925790360)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

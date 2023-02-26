@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "8695aaa2-8983-5fc3-18e6-8dde5f232851",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "AlienHat_mat",
+    "expandInPanel": true,
+    "objGuid": "Guid(4655985348007530146, 18432602086277931184)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Template",
+    "skinObjGuid": "Guid(5263309750420640029, 8143143727774341298)"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "04db2844-2f7d-22ff-df21-a5ba7c26a2b7",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Stylized wizard hat",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "a84c70e9-89da-4955-2262-b4ef53808e96",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "AlienHatAssets",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Template"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "projectId": "971f0e14-a8c8-26a0-919b-62f230b31a14",
+  "isFromTemplate": true,
+  "templateId": "templateID_HeadTracker",
+  "opMap": {
+    "PropertyChange": {
+      "count": 20,
+      "seed": "3z38qzah"
+    },
+    "SceneDefault": {
+      "count": 196,
+      "seed": "zlljyt66"
+    },
+    "RemoveNode": {
+      "count": 6,
+      "seed": "by0ur2l1"
+    },
+    "RemoveEntity": {
+      "count": 15,
+      "seed": "pvkrxopb"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "9db826b0-5aa6-816e-520b-6f8b6715fe59",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "base_metallicRoughness",
+    "expandInPanel": false,
+    "objGuid": "Guid(4680883146125367172, 1817170784362356910)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

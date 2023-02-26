@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "adc9f983-26a6-d583-dc6e-14f4b504753f",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Sorting Hat Fan Art",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered"
+  }
+]

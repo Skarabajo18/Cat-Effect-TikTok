@@ -1,0 +1,29 @@
+[
+  {
+    "guid": {
+      "a": "1adcbd1a-24b5-bc9e-c306-f922ca20411e",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "Sorting Hat Fan Art",
+    "expandInPanel": true,
+    "objGuid": "Guid(5286991471277021201, 10828609057954342024)",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "materialsGUIDs": [
+      "52832bf0-c925-54ce-9bb8-95da9cad775b",
+      "1e97f8cd-bb08-d27f-68b4-22f64deca2f9"
+    ],
+    "meshGUIDs": [
+      "9312e4bf-00aa-7255-d2f8-4f80b3d0167a",
+      "cacb294a-659d-f86f-a866-408e3bc889f6"
+    ],
+    "animazGUIDs": []
+  }
+]

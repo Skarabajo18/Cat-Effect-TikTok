@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "b64aff07-7ed5-2227-4ead-97a36fff1569",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "MainHat_normal",
+    "expandInPanel": false,
+    "objGuid": "Guid(4808971041795183678, 10127580577573945241)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

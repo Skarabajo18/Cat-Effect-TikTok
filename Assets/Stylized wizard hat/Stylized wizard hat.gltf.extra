@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "ec50c305-dbc6-2b6f-9c63-c04de016737a",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "Stylized wizard hat",
+    "expandInPanel": false,
+    "objGuid": "Guid(5718861289427830615, 8952105520378778755)",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "materialsGUIDs": [
+      "f56bca9f-ac7b-b3f2-9c3b-1a5cf9cfda82"
+    ],
+    "meshGUIDs": [
+      "1117e0de-4598-a71b-4b0b-9507aabc4d0c"
+    ],
+    "animazGUIDs": []
+  }
+]

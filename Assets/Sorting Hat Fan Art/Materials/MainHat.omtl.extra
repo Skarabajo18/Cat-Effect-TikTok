@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "1e97f8cd-bb08-d27f-68b4-22f64deca2f9",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "MainHat",
+    "expandInPanel": false,
+    "objGuid": "Guid(5111430038274253979, 9042301202608918436)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "skinObjGuid": "Guid(5624591670891690073, 15466237585907869373)"
+  }
+]

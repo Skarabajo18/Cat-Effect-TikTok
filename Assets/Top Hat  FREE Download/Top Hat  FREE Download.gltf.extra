@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "690c7026-67a3-7d3e-0651-815be7c47cfe",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "Top Hat  FREE Download",
+    "expandInPanel": false,
+    "objGuid": "Guid(5274006982196040759, 3592401028997460358)",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "materialsGUIDs": [
+      "00ae14d0-5786-c770-da10-579fcef74f34"
+    ],
+    "meshGUIDs": [
+      "91daee92-94a6-5fe7-af52-951c55c4cf5f"
+    ],
+    "animazGUIDs": []
+  }
+]

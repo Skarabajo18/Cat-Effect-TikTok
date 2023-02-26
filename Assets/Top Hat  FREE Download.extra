@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "8e59e5b4-9285-9795-2b40-bd06a768844e",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Top Hat  FREE Download",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered"
+  }
+]
